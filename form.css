@@ -1,0 +1,28 @@
+.panel-form{
+    margin-top: 32px;
+    margin-bottom: 30px;
+}
+.panel-form .title{
+    font-size: 30px;
+    color:#ef7247;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.panel-form .field .field-label{
+    display:block;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.panel-form .field .field-input{
+    display: block;
+    margin-bottom: 15px;
+    width: 100%;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px #48a3a6;
+}
+.panel-form .button-place{
+    text-align: center;
+}
